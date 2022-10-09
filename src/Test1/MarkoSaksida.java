@@ -149,6 +149,8 @@ public class MarkoSaksida {
         System.out.println(indexGdeElementPripada(-12, new int[]{-11, -10, -9, -8, -7}));
         System.out.println(abeceda("ABD"));
     }
+
+    //
 }
 
 
